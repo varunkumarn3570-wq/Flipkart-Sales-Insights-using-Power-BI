@@ -36,7 +36,7 @@ An interactive Power BI dashboard was created to help visualize and understand t
 ## 📁 Project Files
 - `Flipkart Dashboard.pbix` → Power BI dashboard file
 - `flipkart_sales.csv` → Dataset used for analysis
--![Dashboard Preview](.) 
+-![Dashboard Preview](image.png) 
 ## 📸 Dashboard Preview
 (Add your dashboard screenshot here)
 
